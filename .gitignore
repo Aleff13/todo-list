@@ -31,5 +31,4 @@ yarn-error.log*
 *.log
 /logs
 
-*firebase.config.ts
 *.firebaserc
