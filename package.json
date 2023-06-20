@@ -30,6 +30,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "test:e2e": "cypress run",
+    "test:e2e:open": "cypress open",
     "eject": "react-scripts eject",
     "deploy": "firebase deploy"
   },
